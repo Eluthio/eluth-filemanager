@@ -1,0 +1,17 @@
+{
+  "name": "eluth-filemanager",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build && node scripts/pack.js"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^7.0.0",
+    "vue": "^3.5.30"
+  },
+  "peerDependencies": {
+    "vue": "^3.5.0"
+  }
+}

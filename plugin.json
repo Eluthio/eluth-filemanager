@@ -1,0 +1,15 @@
+{
+  "name": "File Manager",
+  "slug": "file-manager",
+  "version": "1.0.0",
+  "tier": "official",
+  "author": "Eluthio",
+  "description": "Browse and search all files posted in a channel. View, re-post, or download images, 3D models, and other uploads.",
+  "homepage": "https://github.com/Eluthio/eluth-filemanager",
+  "zones": ["topmenu"],
+  "data_access": ["messages"],
+  "backend_hooks": [],
+  "wss_scopes": [],
+  "settings": [],
+  "entry": "src/index.js"
+}
