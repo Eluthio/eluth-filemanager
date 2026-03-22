@@ -11,5 +11,5 @@
   "backend_hooks": [],
   "wss_scopes": [],
   "settings": [],
-  "entry": "src/index.js"
+  "entry": "index.js"
 }
