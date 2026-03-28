@@ -1,7 +1,7 @@
 {
   "name": "File Manager",
   "slug": "file-manager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "tier": "official",
   "author": "Eluthio",
   "description": "Browse and search all files posted in a channel. View, re-post, or download images, 3D models, and other uploads.",
